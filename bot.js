@@ -226,4 +226,4 @@ async def on_ready():
        await client.change_presence(game=discord.Game(name=messagem, type=1, url='https://www.twitch.tv/'),status='streaming')
 
 
-client.login(process.env.NDgwMTM1MzY4NTU4MTE2ODY1.DljduQ.KmTrmMtrw8BytRmbO2lpBc5k-iI);
+client.run('NDgwMTM1MzY4NTU4MTE2ODY1.DljduQ.KmTrmMtrw8BytRmbO2lpBc5k-iI')
